@@ -1,0 +1,15 @@
+{
+  "name": "learnin-npm",
+  "version": "1.0.0",
+  "description": "I'm learning anout NPM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Narayan Chandravanshi",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  }
+}
